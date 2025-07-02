@@ -1,4 +1,4 @@
-# 🎶 AI-Agent-Symphony-Demo
+# 🎶 AI Agent Symphony Demo
 
 [![LangChain](https://img.shields.io/badge/langchain-v0.0.0-blue)](https://github.com/langchain-ai/langchain)  [![LangChain Blog](https://img.shields.io/badge/Blog-LangChain-lightgrey)](https://blog.langchain.dev)  [![AI Agents Architecture – Part 6](https://img.shields.io/badge/Medium-AI%20Agents%20Architecture%20Part%206-orange)](https://medium.com/@vipra_singh/ai-agents-architectures-part-6-538812b1e17d) [![PyCon Colombia 2025](https://img.shields.io/badge/PyCon%20Colombia-2025-F137A6)](https://2025.pycon.co/#/talks/8)
 
