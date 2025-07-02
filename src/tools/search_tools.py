@@ -13,7 +13,7 @@ def wikipedia_search(query: str) -> str:
         str: Summary of the corresponding Wikipedia article.
     """
     try:
-        summary = wikipedia.summary(query, sentences=5, auto_suggest=True, redirect=True)
+        summary = wikipedia.summary(query, sentences=15, auto_suggest=True, redirect=True)
         return summary
     except wikipedia.DisambiguationError as e:
         return f"The query is ambiguous. Some possible options are: {e.options[:3]}"
