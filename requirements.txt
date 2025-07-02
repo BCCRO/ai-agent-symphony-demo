@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+openai
+google-api-python-client
+google-auth
+google-auth-oauthlib
+jira
+python-dotenv
+wikipedia

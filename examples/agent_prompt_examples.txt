@@ -1,0 +1,25 @@
+Send an email to support@company.com with subject [BUG] and body: There was a system outage this morning.
+
+Create a Jira issue with the summary "Database Latency" and description "Detected latency spikes in the DB at 2 PM. Please investigate urgently." Use the type 'Incident'.
+
+List all emails received in the last 24 hours with the subject containing [FAILURE] or [ISSUE].
+
+Schedule a Google Calendar event titled "Production Failure Review" for next Monday at 10:00 AM, duration 1 hour, with the description: Discuss all current failures.
+
+Find and summarize the last five open Jira tickets in project PC.
+
+Add the following comment to Jira issue PC-1: "Assigned to engineering for immediate review."
+
+Send an email to user@example.com with subject "Meeting Invitation" and body: Please join the incident review. Include the Google Meet link.
+
+Reply to the latest email with subject [OUTAGE], saying: "Thank you for reporting. The team is working on it."
+
+Create a work plan based on all open Jira bugs in project PC. Group them by priority.
+
+Show the five most recent emails from production containing [BUG] in the subject.
+
+For every open Jira issue in project PC, add a comment: "Will be reviewed in the next support meeting."
+
+Schedule a recurring meeting every Monday at 9:00 AM to review all new Jira issues from the past week.
+
+Send an email with the agenda for tomorrow's bug review meeting to all team members.
